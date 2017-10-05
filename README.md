@@ -1,4 +1,5 @@
-# xylem
+# VUE + Semantic UI
+This project is based on vuejs webpack template and semantic-ui-css.
 
 > A Vue.js project
 
